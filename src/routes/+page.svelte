@@ -6,7 +6,7 @@
 <!--  -->
 
 <div class='page'>
-    Hello, moss bluff
+    Hello, Moss Bluff, Louisiana. Welcome to your page.
 </div>
 
 <!--  -->

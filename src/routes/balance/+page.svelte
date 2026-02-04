@@ -6,12 +6,11 @@
 <!--  -->
 
 <div class='page'>
-    hi
+    Balance Page
 </div>
 
 <!--  -->
 
 <style>
-    
 
 </style>

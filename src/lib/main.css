@@ -40,9 +40,9 @@
 }
 
 :root{
-	--hue: 220;
+	--hue: 260;
 	--sat: 8%;
-	--strt: 4%;
+	--strt: 6%;
 	--diff: 4%;
 
 	--accent: hsl(var(--hue), 48%, 64%);
@@ -65,7 +65,7 @@
 
 @media (prefers-color-scheme: light) {
 	:root{
-		--strt: 100%;
+		--strt: 94%;
 		--diff: -6%;
         --accent: hsl(var(--hue), 48%, 48%);
 		--contrast: hsl(var(--hue), 0%, 8%);
@@ -86,4 +86,9 @@ body{
     font-size: 1rem;
     font-family: BaileyScript !important;
     color: var(--contrast);
+}
+
+a,button,input{
+    all: unset;
+    display: block;
 }

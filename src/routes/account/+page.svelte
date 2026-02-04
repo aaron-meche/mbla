@@ -6,12 +6,11 @@
 <!--  -->
 
 <div class='page'>
-    hi
+    Account Page
 </div>
 
 <!--  -->
 
 <style>
-    
 
 </style>
